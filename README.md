@@ -3,6 +3,7 @@ I want to learn physics, and I thought I could store my knowledge in code instea
 
 
 ## To run:
+Add code to main.fs then type:
 ```
 ./run.sh
 ```
